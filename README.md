@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying in Electrical Engineering Department at Chittagong University, Bangladesh .
-- 🌱 I’m currently learning Full stack Development basically MERN STACK.
+- 🌱 I’m currently learning Full stack Development basically [MERN- STACK](#).
 - 👯 I’m looking to collaborate on You Tube.
 - 🤔 I’m looking for help with Proper Documentation.
 - 💬 Ask me about [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/),  [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/) , [React-Bootstrap](https://react-bootstrap.github.io/),[Material UI](https://material-ui.com/) and anything about web development.
